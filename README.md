@@ -1,4 +1,13 @@
-### Hi there 👋
+### Salam, May be peace upon you!! 👋
+
+- I am a PhD student at University of Texas at Arlington
+- I'm currently working on formalizing a grammar for Simulink toolchain, a widely used cyber physical system development tool. My research is focused on finding vulnerabilities in visual language compilers
+- Previously, I have worked on applying NLP techniques for source code understanding and finding a common representation for code and natural language
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifatarefin&hide=html)
+![Rifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifatarefin&show_icons=true&count_private=true)
+<br>
+![Hit count](https://komarev.com/ghpvc/?username=rifatarefin&color=green)
 
 <!--
 **rifatarefin/rifatarefin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
