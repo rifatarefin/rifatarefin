@@ -5,7 +5,7 @@
 - Previously, I have worked on applying NLP techniques for source code understanding and finding a common representation for code and natural language
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifatarefin&hide=html)
-![Rifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifatarefin&show_icons=true&count_private=true)
+![Rifat's GitHub stats](https://github-readme-stats-git-master-rifatarefin.vercel.app/api?username=rifatarefin&show_icons=true&hide_rank=true)
 <br>
 ![Hit count](https://komarev.com/ghpvc/?username=rifatarefin&color=green)
 
